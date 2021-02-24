@@ -1,0 +1,1 @@
+Image Processing | Voice Recognition | Face Detection | TTS | STT | Multimedia
