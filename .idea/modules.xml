@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Hand-Gestures-master/.idea/Hand-Gestures-master.iml" filepath="$PROJECT_DIR$/../Hand-Gestures-master/.idea/Hand-Gestures-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpeechRecognition/.idea/SpeechRecognition.iml" filepath="$PROJECT_DIR$/../SpeechRecognition/.idea/SpeechRecognition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/face-recognition-opencv.iml" filepath="$PROJECT_DIR$/.idea/face-recognition-opencv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pygletMaster/.idea/pygletMaster.iml" filepath="$PROJECT_DIR$/../pygletMaster/.idea/pygletMaster.iml" />
+    </modules>
+  </component>
+</project>
